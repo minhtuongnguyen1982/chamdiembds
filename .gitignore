@@ -1,0 +1,7 @@
+node_modules/
+private/
+.clasp.json
+credentials.json
+credentials.json.json
+*.log
+.env
